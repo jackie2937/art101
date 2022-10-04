@@ -4,3 +4,9 @@ p {
 	color: purple;
 	font-weight: bold;
 }
+
+#callout {
+	backround-color: tan;
+	padding: 20px;
+	border: solid 1px black;
+}
