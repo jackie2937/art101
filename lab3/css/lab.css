@@ -1,0 +1,21 @@
+h1 {
+	color: 00FF00;
+	font-size: 300%;
+}
+p {
+	color: purple;
+	font-size: 20%;
+	border: 2px solid red;
+	padding: 20px;
+}
+p.contentx #content {	backround-color: #00FF00;
+	width: 30px;
+	min-height: 40px;
+	padding: 20px;
+	margin: 10px;
+	border: solid 1px #00FF00;
+	font size: 10px;
+}
+body {
+  background-color: powderblue;
+}
