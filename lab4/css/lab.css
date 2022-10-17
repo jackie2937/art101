@@ -1,0 +1,14 @@
+body {
+  background-color: #F47174;
+}
+#websiteborder {
+  border-radius: 15px;
+  border: dashed 1px black;
+  padding: 10px;
+}
+.box {
+  background-color: #bfe3b4;
+  border-radius: 15px;
+  border: solid 1px black;
+  padding: 10px;
+}

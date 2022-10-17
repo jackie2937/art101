@@ -1,0 +1,17 @@
+body {
+  background-color: #FF8200;
+}
+#websiteborder {
+  border-radius: 15px;
+  border: dashed 1px red;
+  padding: 10px;
+}
+.box {
+  background-color: #22BF20;
+  border-radius: 15px;
+  border: solid 1px blue;
+  padding: 10px;
+}
+img {
+	width:400px
+}
