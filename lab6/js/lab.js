@@ -6,7 +6,7 @@
 
 // Define variables
 
-var myTransport = ["car", "bus", "bike", "feet", "scooter"];
+var myTransport = ["car", " bus", " bike", " feet", " scooter"];
 
 var myMainRide = {
 	make: "prius",
