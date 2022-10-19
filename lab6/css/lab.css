@@ -1,0 +1,18 @@
+#main {
+  background-color: #7CEAC6;
+}
+#websiteborder1 {
+  background-color: #58A58C;
+  border-radius: 15px;
+  border: dashed 1px red;
+  padding: 10px;
+}
+.box1 {
+  color: #00423C
+  border-radius: 3px;
+  border: solid 1px red;
+  padding: 10px;
+}
+img {
+  width: 300px;
+}
