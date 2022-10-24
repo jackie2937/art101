@@ -9,10 +9,10 @@
 function getUserName(userName){
   //get user input, removed for bonus challenge
 	//var userName = window.prompt("hi");
-	//put user name in console
-	console.log(userName);
 	//removes spaces from inputed username
   userName = userName.replace(/\s+/g, '');
+	//put user name in console
+	console.log(userName);
 	// split string to array
   var array = userName.split("");
 	//sort array
