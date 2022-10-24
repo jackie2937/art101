@@ -6,11 +6,13 @@
 
 
 //define function
-function getUserName(){
-  //get user input
-	var userName = window.prompt("hi");
+function getUserName(userName){
+  //get user input, removed for bonus challenge
+	//var userName = window.prompt("hi");
 	//put user name in console
 	console.log(userName);
+	//removes spaces from inputed username
+  userName = userName.replace(/\s+/g, '');
 	// split string to array
   var array = userName.split("");
 	//sort array
@@ -22,6 +24,6 @@ function getUserName(){
 };
 
 //get user input
-var a = getUserName();
+var a = getUserName(window.prompt("Enter Username: "));
 //print function output
 document.writeln("sorted username: ", a, "<br>");
