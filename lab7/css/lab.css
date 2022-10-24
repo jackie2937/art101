@@ -1,0 +1,19 @@
+#main {
+  #background-color: #2E55A5;
+}
+#websiteborder1 {
+  background-color: #0040FF;
+  border-radius: 50px;
+  border: dashed 1px #0029A5;
+  padding: 10px;
+}
+.box1 {
+  background-color: #2E55A5;
+  border-radius: 3px;
+  border: solid 3px #264687;
+  padding: 10px;
+}
+img {
+  width: 300px;
+
+}
