@@ -1,16 +1,16 @@
 #main {
-  #background-color: #2E55A5;
+  #background-color: #61C1E8;
 }
 #websiteborder1 {
-  background-color: #0040FF;
-  border-radius: 50px;
-  border: dashed 1px #0029A5;
+  background-color: #63E861;
+  border-radius: 5px;
+  border: dashed 1px #6A4EF9;
   padding: 10px;
 }
 .box1 {
-  background-color: #2E55A5;
+  background-color: #F94EF3;
   border-radius: 3px;
-  border: solid 3px #264687;
+  border: solid 3px #F9B44E;
   padding: 10px;
 }
 img {
