@@ -1,0 +1,21 @@
+#main {
+  #background-color: #61C1E8;
+}
+#websiteborder1 {
+  background-image: url(../img/JavascriptArt3.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #7cc6eb;
+  border-radius: 5px;
+  border: dashed 1px #39aae3;
+  padding: 10px;
+}
+.box1 {
+  background-color: #4da6ff;
+  border-radius: 3px;
+  border: solid 3px #055bb0;
+  padding: 10px;
+}
+img {
+  width: 300px;
+}
