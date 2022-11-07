@@ -1,18 +1,18 @@
 body {
-  background-color: ##FFAC00;
+  background-color: #FFAC00;
   background-image: url(../img/JavascriptArt3.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 #websiteborder1 {
   border-radius: 5px;
-  border: dashed 1px ##FFCC61;
+  border: dashed 1px #FFCC61;
   padding: 10px;
 }
 .box1 {
-  background-color: ##FFD887;
+  background-color: #FFD887;
   border-radius: 3px;
-  border: solid 3px ##FFECB9;
+  border: solid 3px #FFECB9;
   padding: 10px;
 }
 img {
