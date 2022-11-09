@@ -1,0 +1,20 @@
+body {
+  background-color: #FF88CA;
+  background-image: url(../img/lineImage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#websiteborder1 {
+  border-radius: 5px;
+  border: dashed 1px #FF008E;
+  padding: 10px;
+}
+.box1 {
+  background-color: #E0C2D3;
+  border-radius: 3px;
+  border: solid 3px #771049;
+  padding: 10px;
+}
+img {
+  width: 300px;
+}
