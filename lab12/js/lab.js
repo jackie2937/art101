@@ -28,3 +28,8 @@ button.click(function() {
 	var paragraphOutput=$("<p>The Sorting Hat has sorted you into " + house + "</p>");
 	$("#output").append(paragraphOutput);
 });
+
+// Uncaught ReferenceError: x is not defined
+   // at HTMLButtonElement.<anonymous> (lab.js:26:23)
+   //  at HTMLButtonElement.dispatch (jquery-3.4.1.min.js:2:42571)
+   // at v.handle (jquery-3.4.1.min.js:2:40572)
