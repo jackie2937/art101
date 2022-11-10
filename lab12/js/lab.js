@@ -23,7 +23,7 @@ function sortingHat(str) {
 var button=$("#button");
 button.click(function() {
   var input=$("#input");
-	var name=input.val();x
+	var name=input.val();
 	var house=sortingHat(name);
 	var paragraphOutput=$("<p>The Sorting Hat has sorted you into " + house + "</p>");
 	$("#output").append(paragraphOutput);
