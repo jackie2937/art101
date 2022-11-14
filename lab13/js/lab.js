@@ -3,15 +3,22 @@
  * created wed. Nov 14th
  * License: Public Domain
 */
+var max = 200;
 function FizzBuzz(){
   var output = $("#output");
   var lines = [];
   var outputString = "";
-	var mod = 50;
+	var div = max;
+	for(var i = 1; i <= 6;i++){
+		if(max%i == 0){
+			div = i;
+		}
+	}
+	var mod = max/div;
 	for (var trees = 0; trees <= mod + 1; trees++) {
 		lines[trees] = "";
 	}
-  for (var trees = 1; trees <= 200; trees++) {
+  for (var trees = 1; trees <= max; trees++) {
     var out = trees;
     if(out%3 == 0 || out%5 == 0 || out%7 == 0){
       out = "";
@@ -54,3 +61,10 @@ function FizzBuzz(){
   output.html(outputString);
 }
 FizzBuzz();
+var textBox = $("#input");
+function setMax(){
+	max = textBox.val();
+	FizzBuzz();
+}
+var button = $("#button");
+button.click(setMax);
