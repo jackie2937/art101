@@ -1,0 +1,51 @@
+body {
+  background-color: #CDE5C8;
+  background-image: url(../img/beautiful.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+}
+#websiteborder1 {
+  border-radius: 5px;
+  border: dashed 2px #CDE5C8;
+  padding: 10px;
+}
+.box1 {
+  background-color: #CDE5C8;
+  border-radius: 3px;
+  border: solid 3px #88A382;
+  padding: 10px;
+}
+
+img {
+  width: 300px;
+}
+
+.tabindent {
+  text-align: center;
+  color: #CDE5C8;
+  font-size: 30px;
+}
+
+#results {
+  color: #CFE9C8;
+  font-size: 30px;
+}
+#output{
+  font-family: monospace;
+}
+#challenges {
+  color: #CFE9C8;
+  font-size: 30px;
+}
+
+#problems {
+  color: #CFE9C8;
+  font-size: 30px;
+}
+
+
+a {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
