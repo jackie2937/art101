@@ -1,0 +1,33 @@
+<div id="content">
+
+h1 {
+	color: green;
+	font-size: 300%;
+}
+a {
+	color: green;
+	font-size: 20%;
+}
+h1 #content {	backround-color: #7CFC00;
+	width: 50px;
+	min-height: 20px;
+	padding: 10px;
+	margin: 10px;
+	border: solid 1px #444444;
+	font size: 20px;
+}
+body {
+  background-color: lightgrey;
+}
+p.one {
+  border-style: solid;
+  border-color: black;
+}
+h1 {
+  background-color: green;
+}
+p {
+  border: 2px solid blue;
+  padding: 30px;
+}
+</div>

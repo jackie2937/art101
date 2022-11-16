@@ -1,0 +1,50 @@
+body {
+  background-color: #FF88CA;
+  background-image: url(../img/lineImage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#websiteborder1 {
+  border-radius: 5px;
+  border: dashed 1px #FF008E;
+  padding: 10px;
+}
+.box1 {
+  background-color: #E0C2D3;
+  border-radius: 3px;
+  border: solid 3px #771049;
+  padding: 10px;
+}
+img {
+  width: 300px;
+}
+
+tabindent {
+  text-align: center;
+  color: #CDE5C8;
+  font-size: 30px;
+}
+
+#results {
+  color: black;
+  font-size: 30px;
+}
+#output{
+  font-family: monospace;
+}
+#challenges {
+  color: black;
+  font-size: 30px;
+}
+
+#problems {
+  color: black;
+  font-size: 30px;
+}
+
+
+a {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
