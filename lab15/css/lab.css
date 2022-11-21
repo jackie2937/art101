@@ -1,0 +1,44 @@
+body {
+  background-color: #1887DA;
+  background-image: url(../img/bluewall.jpg);
+  background-repeat: repeat;
+}
+#websiteborder1 {
+  border-radius: 5px;
+  border: dashed 3px #97D3FF;
+  padding: 10px;
+}
+.box1 {
+  background-color: #4A9FDD;
+  border-radius: 3px;
+  border: solid 3px #316992;
+  padding: 10px;
+}
+img {
+  width: 300px;
+}
+
+.tabindent {
+  text-align: center;
+  color: #A7E3FF;
+  font-size: 30px;
+}
+
+#results {
+  color: black;
+  font-size: 30px;
+}
+
+#output{
+  font-family: monospace;
+}
+
+#challenges {
+  color: black;
+  font-size: 30px;
+}
+
+#problems {
+  color: black;
+  font-size: 30px;
+}
