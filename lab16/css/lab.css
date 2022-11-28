@@ -1,0 +1,44 @@
+body {
+  background-color: #ADB8BE;
+  background-image: url(../img/patternrepeat.jpg);
+  background-repeat: repeat;
+}
+#websiteborder1 {
+  border-radius: 5px;
+  border: dashed 3px #D8E0E5;
+  padding: 10px;
+}
+.box1 {
+  background-color: #D5DFE5;
+  border-radius: 3px;
+  border: dashed 3px #CDD6DB;
+  padding: 10px;
+}
+img {
+  width: 300px;
+}
+
+.tabindent {
+  text-align: center;
+  color: #DEDEDE;
+  font-size: 30px;
+}
+
+#results {
+  color: black;
+  font-size: 30px;
+}
+
+#output{
+  font-family: monospace;
+}
+
+#challenges {
+  color: black;
+  font-size: 30px;
+}
+
+#problems {
+  color: black;
+  font-size: 30px;
+}
